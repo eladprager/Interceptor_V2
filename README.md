@@ -14,4 +14,6 @@ Score is as follows:
         Firing an interceptor: -1 point
         Intercepting a rocket: +4 points
         
+ Here an example using random actions:
+        
 ![Randomize Action Choise](https://github.com/eladprager/Interceptor_V2/blob/master/Interceptor_V2.gif)
